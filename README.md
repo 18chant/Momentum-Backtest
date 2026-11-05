@@ -21,7 +21,7 @@ All figures are net of 10 bp transaction costs. Sharpe ratios assume a 0% risk-f
 
 In-sample: Dec 2009 – Dec 2018 (109 months). Out-of-sample: Jan 2019 – Sep 2026 (93 months).
 
-![Momentum minus benchmark, by calendar year](charts/chart_yearly_difference.png)
+![Momentum minus benchmark, by calendar year](chart/chart_yearly_difference.png)
 
 **Takeaways**
 
